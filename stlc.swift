@@ -1,6 +1,4 @@
 #!/usr/bin/env swift
-//: Playground - noun: a place where people can play
-
 //: LC : Implemements a minimal simply-typed lambda calculus with unit, ints and addition.
 //: In this version, we use nil instead of exceptions to avoid polluting the type signatures.
 
